@@ -3,15 +3,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>Matt Swanson's Blog</title>
- <link href="http://mdswanson.com/atom.xml" rel="self"/>
- <link href="http://mdswanson.com/"/>
+ <title>Guodong Jin's Blog</title>
+ <link href="http://ray6080.github.io/atom.xml" rel="self"/>
+ <link href="http://ray6080.github.io/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://mdswanson.com/</id>
+ <id>http://ray6080.github.io/</id>
  <author>
-   <name>Matt Swanson</name>
-   <email>matt@mdswanson.com</email>
-   <url>mdswanson.com</url>
+   <name>Guodong Jin</name>
+   <email>jelly.guodong.jin@gmail.com</email>
+   <url>ray6080.github.io</url>
  </author>
 
  {% for post in site.posts %}
