@@ -1,6 +1,6 @@
 ### [My Blog](http://ray6080.github.io)
 
-The [Jekyll](http://jekyllrb.com/) source for [http://ray6080.github.io](http://ray6080.github.io), which contains my blog, projects, and paper readings.
+The [Jekyll](http://jekyllrb.com/) source for [http://ray6080.github.io](http://ray6080.github.io), which contains my blog, projects, and  readings.
 
 The template is forked from [Swanson](http://github.com/swanson/swanson.github.com)
 
