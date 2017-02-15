@@ -1,8 +1,7 @@
-- name: Growth
+- name: System
   desc: |
-    The journey towards senior engineer, with an emphasis on soft 
-    skills &amp; professional growth
-  tag_name: growth
+    Thoughts on system designs &amp; implementations 
+  tag_name: system
 
 - name: Delightful Products
   desc: |
