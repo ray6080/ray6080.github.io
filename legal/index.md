@@ -10,9 +10,6 @@ skip_footer: true
 [ah]: http://www.thenounproject.com/ahainen
 [noun]: http://www.thenounproject.com
 
-Disclaimer: Matt Swanson is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com
+Disclaimer:The postings on this site are my own and don't necessarily represent my employer’s positions, strategies or opinions.
 
-The postings on this site are my own and don't necessarily represent my 
-  employer’s positions, strategies or opinions.
-
-&copy; 2010 &ndash; {{ site.time | date: "%Y" }}, Matt Swanson
+&copy; 2016 &ndash; {{ site.time | date: "%Y" }}, Guodong Jin
