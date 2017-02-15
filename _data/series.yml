@@ -1,42 +1,19 @@
-- name: System
+- name: System Musings
   desc: |
-    Thoughts on system designs &amp; implementations 
+    Musings on system designs &amp; implementations 
   tag_name: system
 
-- name: Delightful Products
+- name: Algorithms
   desc: |
-    Thoughts on building simple products that people love
-  tag_name: delightful_products
+    An algorithm must be seen to be believed 
+  tag_name: algorithm
 
-- name: Product Development
-  desc: |
-    Lessons and experiences in validating, building, and supporting software products
-  tag_name: product_dev
-
-- name: Practices
-  desc: |
-    Real-world experiences with agile techniques &amp; 
-    challenging dogmatic practices
-  tag_name: practices
-
-- name: Reflections
-  desc: |
-    Looking back critically, in both personal &amp; professional 
-    contexts
-  tag_name: reflections
-
-- name: Data Science Lite
+- name: Data Science
   desc: |
     Flailing around with data and trying to make sense of it all
-  tag_name: data_sci
+  tag_name: data
 
-- name: Tangential
+- name: Life Experience
   desc: |
-    The intersection of software and other crafts &amp; 
-    professions
-  tag_name: tangential
-
-- name: Engineering in Android
-  desc: |
-    Applying best-practices &amp; techniques to Android development
-  tag_name: android
+    Live life to the fullest and focus on the positive
+  tag_name: life
