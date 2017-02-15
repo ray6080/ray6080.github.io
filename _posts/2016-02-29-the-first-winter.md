@@ -4,7 +4,7 @@ title: "The First Winter"
 categories:
 - blog
 tags:
-- growth
+- system
 date: 2016-03-14
 ---
 
