@@ -4,7 +4,7 @@ title: "Move your feet"
 categories:
 - blog
 tags:
-- growth
+- system
 favorite: true
 ---
 
