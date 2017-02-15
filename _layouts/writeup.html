@@ -15,8 +15,8 @@ layout: default
 
   <div id="writeup">
     <div class="book-summary">
-      <img src="{{ site.url }}/static/{{ page.image }}" alt="{{page.title}} Book Cover" />
-
+<!--       <img src="{{ site.url }}/static/{{ page.image }}" alt="{{page.title}} Book Cover" />
+ -->
       {% assign full_title = page.title %}
       {% if page.full_title %}
         {% assign full_title = page.full_title %}
@@ -26,16 +26,16 @@ layout: default
         <a href="{{ page.book_link }}">
           {{ full_title }}
         </a>
-      {% else %}
-        <a href="https://amzn.com/{{ page.isbn }}?tag=mdswanson-20">
-          {{ full_title }}
-        </a>
       {% endif %}
       
       <span>{{ page.author }}</span>
       
       {% if page.isbn %}
         <span>ISBN: {{ page.isbn }}</span>
+      {% endif %}
+      
+      {% if page.conf %}
+      <span>CONFERENCE: {{ page.conf }}</spam>
       {% endif %}
     </div>
     
