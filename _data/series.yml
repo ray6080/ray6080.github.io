@@ -8,9 +8,9 @@
     An algorithm must be seen to be believed 
   tag_name: algorithm
 
-- name: Data Science
+- name: ML &amp Deep Learning
   desc: |
-    Flailing around with data and trying to make sense of it all
+    Flailing around with machine learning algorithms and deep learning frameworks, trying to make sense of it all
   tag_name: data
 
 - name: Life Experience
