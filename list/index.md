@@ -15,7 +15,7 @@ This is a list of well written articles on distributed system and deep learning.
 3. [System Design Primer][3]    
    *Introduce must know concepts involving in large system design.*
 
---
+----
 
 ### Deep Learning
 1. [Hacker's guide to Neural Networks][5]    
