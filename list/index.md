@@ -11,7 +11,11 @@ This is a list of well written articles on distributed system and deep learning.
 
 2. [leveldb][2]    
    *A series of blogs analysing source code of leveldb, written in Chinese.*
-   
+
+3. [SystemDesign][3]    
+   *Introduce must know concepts involving in large system design.*
+
+<hr/>
 ### Deep Learning
 1. [Hacker's guide to Neural Networks][5]    
    *Written by Andrej Karpathy, explaining neural network as hacker's perspective.*

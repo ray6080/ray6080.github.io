@@ -10,5 +10,5 @@ categories:
 - writeup
 ---
 
-Caffe is a framework for convolutional neural network based deep learning algorithms.
+Caffe is a framework for convolutional deep learning algorithms, developed and maintained by the Berkeley Vision and Learning Center.
 
