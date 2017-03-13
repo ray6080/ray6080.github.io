@@ -21,10 +21,12 @@ This is a list of well written articles on distributed system and deep learning.
 1. [Hacker's guide to Neural Networks][5]    
    *Written by Andrej Karpathy, explaining neural network as hacker's perspective.*
 
+2. [A 'Brief' History of Neural Nets and Deep Learning][4]
+
 [1]: https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
 [2]: https://dirtysalt.github.io/leveldb.html
 [3]: https://github.com/donnemartin/system-design-primer
-[4]: https://github.com/kamranahmedse/design-patterns-for-humans/
+[4]: http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/
 [5]: http://karpathy.github.io/neuralnets/
 
 
