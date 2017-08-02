@@ -5,7 +5,7 @@ comments: true
 categories:
 - blog
 tags:
-- system
+- system, writeup
 ---
 
 I've been used Java as my first weapon for years, yet I'm alway confused by language details and running internals. Thus I want to take a closer look at the inside of this language, and reading **The Java Language Specification** is a good way. Since Java 8 is popular and widely used now, I choose *Java SE 8 edition* as the standard. This is a start of a series of posts to reading digests and thoughts recording.
@@ -100,7 +100,7 @@ Primitive values do not share state with other primitive values. The integral ty
     *TypeVariable Dims*
 
 *Dims*:    
-  ...*\{Annotation\}* [ ] *\{\{Annotation\}* []*\}*
+  *\{Annotation\}* [ ] *\{\{Annotation\}* []*\}*
 
 An object in Java is a class instance or an array. Reference values are pointers to these objects, and a special null reference, which refers to no object. The operators on references to objects are:
 + Field access, using either a qualified name or a field access expression.
