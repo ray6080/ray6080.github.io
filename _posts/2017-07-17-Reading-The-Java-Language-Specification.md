@@ -58,49 +58,49 @@ The Java programming language is a *statically typed* language, which means that
 ### Primitive Types
 
 *PrimitiveType*:    
-  *{Annotation} NumericType*    
-  *{Annotation} boolean*
+  ...*{Annotation} NumericType*    
+  ...*{Annotation} boolean*
 
 *NumericType*:    
-  *IntegralType*    
-  *FloatingPointType*
+  ...*IntegralType*    
+  ...*FloatingPointType*
 
 *IntegralType*:    
-  byte short int long char
+  ...byte short int long char
 
 *FloatingPointType*:    
-  float double
+  ...float double
 
 Primitive values do not share state with other primitive values. The integral types are byte, short, int, and long, whose values are 8-bit, 16-bit, 32-bit and 64-bit signed two's-complement integers, respectively, and char, whose values are 16-bit unsigned integers representing UTF-16 code units. The floating-point types are float, whose values include the 32-bit IEEE 754 floating-point numbers, and double, whose values include the 64-bit IEEE 754 floating-point numbers.
 
 ### Reference Types
 
 *ReferenceType*:    
-  *ClassOrInterfaceType*    
-  *TypeVariable*    
-  *ArrayType*    
+  ...*ClassOrInterfaceType*    
+  ...*TypeVariable*    
+  ...*ArrayType*    
 
 *ClassOrInterfaceType*:    
-  *ClassType*    
-  *InterfaceType*    
+  ...*ClassType*    
+  ...*InterfaceType*    
 
 *ClassType*:    
-  *{Annotation} Identifier [TypeArguments]*    
-  *ClassOrInterfaceType . {Annotation} Identifier [TypeArguments]*
+  ...*{Annotation} Identifier [TypeArguments]*    
+  ...*ClassOrInterfaceType . {Annotation} Identifier [TypeArguments]*
 
 *InterfaceType*:    
-  ClassType
+  ...ClassType
 
 *TypeVariable*:    
-  *{Annotation} Identifer*
+  ...*{Annotation} Identifer*
 
 *ArrayType*:    
-  *PrimitiveType Dims*    
-  *ClassOrInterfaceType Dims*    
-  *TypeVariable Dims*
+  ...*PrimitiveType Dims*    
+  ...*ClassOrInterfaceType Dims*    
+  ...*TypeVariable Dims*
 
 *Dims*:    
-  *\{Annotation\}* [ ] *\{\{Annotation\}* []*\}*
+  ...*\{Annotation\}* [ ] *\{\{Annotation\}* []*\}*
 
 An object in Java is a class instance or an array. Reference values are pointers to these objects, and a special null reference, which refers to no object. The operators on references to objects are:
 + Field access, using either a qualified name or a field access expression.
