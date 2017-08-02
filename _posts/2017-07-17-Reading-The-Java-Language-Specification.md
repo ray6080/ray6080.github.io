@@ -8,7 +8,7 @@ tags:
 - system
 ---
 
-I've been used Java as my first weapon for years, yet I'm alway confused by language details and running internals. Thus I want to take a closer look at the inside of this language, and the specification is a good way. Since Java 8 is popular and widely used now, I choose Java SE 8 edition as the standard. This is a start of a series of posts to reading digests and thoughts recording.
+I've been used Java as my first weapon for years, yet I'm alway confused by language details and running internals. Thus I want to take a closer look at the inside of this language, and reading **The Java Language Specification** is a good way. Since Java 8 is popular and widely used now, I choose *Java SE 8 edition* as the standard. This is a start of a series of posts to reading digests and thoughts recording.
 
 <hr>
 
