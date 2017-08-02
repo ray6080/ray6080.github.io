@@ -35,23 +35,14 @@ Java digits include the ASCII digits 0-9(\u0030-\u0039). If a letter is a charac
 Reserved keywords:
 
 abstract | continue | for        | new       | switch
--------- | -------- | ---------- | --------- | ------------
 assert   | default  | if         | package   | synchronized
--------- | -------- | ---------- | --------- | ------------
 boolean  | do       | goto       | private   | this
--------- | -------- | ---------- | --------- | ------------
 break    | double   | implements | protected | throw
--------- | -------- | ---------- | --------- | ------------
 byte     | else     | import     | public    | throws
--------- | -------- | ---------- | --------- | ------------
 case     | enum     | instanceof | return    | transient
--------- | -------- | ---------- | --------- | ------------
 catch    | extends  | int        | short     | try
--------- | -------- | ---------- | --------- | ------------
 char     | final    | interface  | static    | void
--------- | -------- | ---------- | --------- | ------------
 class    | finally  | long       | strictfp  | volatile
--------- | -------- | ---------- | --------- | ------------
 const    | float    | native     | super     | while
 
 The `strictfp` keyword is not so commonly used. It is used to enforce the JVM to return exactly the same results from floating point calculations on every platform. With `strictfp` your results are portable, without it they are more common likely to be accurate. Please see more [here](https://stackoverflow.com/questions/517915/when-should-i-use-the-strictfp-keyword-in-java).
