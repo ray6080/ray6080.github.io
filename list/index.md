@@ -23,10 +23,12 @@ This is a list of well written articles on distributed system and deep learning.
 
 2. [A 'Brief' History of Neural Nets and Deep Learning][4]
 
+3. [A Beginner's Guide to Understanding Convolutional Neural Networks][6]
+
+
 [1]: https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
 [2]: https://dirtysalt.github.io/leveldb.html
 [3]: https://github.com/donnemartin/system-design-primer
 [4]: http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/
 [5]: http://karpathy.github.io/neuralnets/
-
-
+[6]: https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/
