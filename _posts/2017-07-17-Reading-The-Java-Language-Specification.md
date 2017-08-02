@@ -34,6 +34,8 @@ Java digits include the ASCII digits 0-9(\u0030-\u0039). If a letter is a charac
 
 Reserved keywords:
 
+keyword  | keyword  | keyword    | keyword   | keyword
+-------- | -------- | ---------- | --------- | ------------
 abstract | continue | for        | new       | switch
 assert   | default  | if         | package   | synchronized
 boolean  | do       | goto       | private   | this
@@ -98,7 +100,7 @@ Primitive values do not share state with other primitive values. The integral ty
   *TypeVariable Dims*
 
 *Dims*:
-  *{Annotation}* [ ] *{{Annotation}* []*}*
+  *\{Annotation\}* [ ] *\{\{Annotation\}* []*\}*
 
 An object in Java is a class instance or an array. Reference values are pointers to these objects, and a special null reference, which refers to no object. The operators on references to objects are:
 + Field access, using either a qualified name or a field access expression.
@@ -124,3 +126,4 @@ The class `object` is the superclass of all other classes. All classes and array
 #### The Class `String`
 
 Instance of class `String` represent sequences of Unicode code points. A `String` object has a constant value. String literals are references to instances of class String. The string concatenation operator `+` implicitly creates a new String object when the result is not a constant expression.
+
