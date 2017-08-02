@@ -127,3 +127,60 @@ The class `object` is the superclass of all other classes. All classes and array
 
 Instance of class `String` represent sequences of Unicode code points. A `String` object has a constant value. String literals are references to instances of class String. The string concatenation operator `+` implicitly creates a new String object when the result is not a constant expression.
 
+Two different types are the *same compile-time type* if they have the same binary name and their type arguments are the same. At run time, several reference types with the same binary name may be loaded simultaneously by different class loaders. These types may or may not represent the same type declaration. Even if two such types do represent the same type declaration, they are considered distinct.
+
+Two reference types are the *same run-time type* if satisfied one of the following:
++ They are both class or both interface types, are defined by the same class loader, and have the same binary name.
++ They are both array types, and their component types are the same run-time type.
+
+### Subtyping among Primitive Types
+The following rules define the direct supertype relation among the primitive types:
+
++ `double >1 float`
++ `float >1 long`
++ `long >1 int`
++ `int >1 char`
++ `int >1 short`
++ `short >1 byte`
+`>1` means direct supertype.
+
+## Variables
+
+A variable is a storage location and has an associated type, sometimes called its *compile-time type*, that is either a primitive type or a reference type.
+
+There are eight kinds of variables:
+
+1. A `class variable` is a field declared using the keyword `static` within a class declaration, or with or without the keyword `static` within an interface declaration. A class variable is created when its class or interface is prepared and is initialized to a default value. The class variable effectively ceases to exist when its class or interface is unloaded.
+2. An `instance variable` is a field declared within a class declaration without using the keyword `static`.
+3. `Array components` are unnamed variables that are created and initialized to default values whenever a new object that is an array is created.
+4. `Method parameters` name argument values passed to a method. For every parameter declared in a method declaration, a new parameter variable is created each time that method is invoked.
+5. `Constructor parameters` name argument values passed to a constructor. For every parameter declared in a constructor declaration, a new parameter variable is created each time a class instance creation expression or explicit constructor invocation invokes that constructor.
+6. `Lambda parameters` name argument values passed to a lambda expression body. For every parameter declared in a lambda expression, a new parameter variable is created each time a method implemented by the lambda body is invoked.
+7. An `exception parameter` is created each time an expcetion is caught by a `catch` clause of a `try` statement. The new variable is initialized with the actual object associated with the exception.
+8. `Local variables` are declared by local variable declaration statements.
+
+### `final` Variables
+A variable can be declared as `final`, and it can only be assigned to once. Compile-time error is thrown if a `final` variable is assigned to unless it is definitely unassigned immediately prior to the assignment. Once a `final` variable is assigned, it always contains the same value. For reference type, it always refers to the same object or array, though the object or array may be changed by operations on them.
+
+Three kinds of variables are *implicitly* declared `final`:
+
+1. A field of an interface.
+2. A local variable which is a resource of a `try`-with-resources statement.
+3. An exception parameter of a multi-`catch` caluse. An exception parameter of a uni-`catch` clause is never implicitly declared `final`, but may be effectively final.
+
+### Initial Values
+
++ Each class variable, instance variable, or array component is nitialized with a default value when it is created:
+    + `byte`: (byte)0
+    + `short`: (short)0
+    + `int`: 0
+    + `long`: 0L
+    + `float`: 0.0f
+    + `double`: 0.0d
+    + `char`: '\u0000'
+    + `boolean`: false
+    + reference types: `null`
++ Each method parameter is initialized to the corresponding argument value provided by the invoker of the method.
++ Each constructor parameter is initialized to the corresponding argument value provided by a class instance creation expression or explicit constructor invocation.
++ An exception parameter is initialized to the thrown object representing the exception.
++ A local variable must be explicitly given a value before it is used.
