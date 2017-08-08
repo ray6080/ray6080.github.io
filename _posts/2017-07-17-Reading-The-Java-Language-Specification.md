@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Reading The Java Language Specification
+title: Reading The Java Language Specification I
 comments: true
 categories:
 - blog
 tags:
-- system, writeup
+- system
 ---
 
 I've been used Java as my first weapon for years, yet I'm alway confused by language details and running internals. Thus I want to take a closer look at the inside of this language, and reading **The Java Language Specification** is a good way. Since Java 8 is popular and widely used now, I choose *Java SE 8 edition* as the standard. This is a start of a series of posts to reading digests and thoughts recording.
@@ -184,3 +184,4 @@ Three kinds of variables are *implicitly* declared `final`:
 + Each constructor parameter is initialized to the corresponding argument value provided by a class instance creation expression or explicit constructor invocation.
 + An exception parameter is initialized to the thrown object representing the exception.
 + A local variable must be explicitly given a value before it is used.
+

@@ -1,15 +1,13 @@
 ---
 layout: writeup
-title: Caffe Convolutional Architecture
-full_title: "Caffe Convolutional Architecture for Fast Feature Embedding"
-author: Yangqing Jia, Evan Shelhamer
-link: https://arxiv.org/pdf/1408.5093.pdf
-publication: ACM MM ‘14
+title: Spanner: Becoimg a SQL System
+full_title: "Spanner: Becoming a SQL System"
+author: David F.Bacon, Nathan Bales, etc.
+link: http://dl.acm.org/citation.cfm?id=3056103&CFID=792762913&CFTOKEN=72097261
+publication: SIGMOD'17
 comments: true
 categories:
 - writeup
 ---
 
-Caffe is a framework for convolutional deep learning algorithms, developed and maintained by the Berkeley Vision and Learning Center.
-
-Convolutional neural networks grew to prominence as Alex Krizhevsky used them to win year 2012's ImageNet competition, dropping the classfication error from 266% to 15%. ConvNet is a kind of Neural Network architecture, while making the explicit assumption that the inputs are images.
+Spanner is a globally-distributed data management system that backs hundreds of mission-critical services at Google. The first Spanner paper was published at OSDI'12.

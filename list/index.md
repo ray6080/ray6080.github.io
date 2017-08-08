@@ -15,6 +15,12 @@ This is a list of well written articles on distributed system and deep learning.
 3. [System Design Primer][3]    
    *Introduce must know concepts involving in large system design.*
 
+4. [Advanced Database System][7]    
+   *CMU course on database system.*
+
+5. [Distribtued Systems][8]
+   *MIT course on distributed system.*
+
 ----
 
 ### Deep Learning
@@ -32,3 +38,5 @@ This is a list of well written articles on distributed system and deep learning.
 [4]: http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/
 [5]: http://karpathy.github.io/neuralnets/
 [6]: https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/
+[7]: http://15721.courses.cs.cmu.edu/spring2016/
+[8]: https://pdos.csail.mit.edu/6.824/
