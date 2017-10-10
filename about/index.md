@@ -24,7 +24,7 @@ I'm always learning and trying to improve my craft: well designed interface, cle
 
 ## Let's talk.
 
-You can reach me at [`jelly.guodong.jin@gmail.com`][email] or [`@ray6080`][twitter].
+You can reach me at [`guod.jin@gmail.com`][email] or [`@ray6080`][twitter].
 
 This blog is [open source][os] - and forked from [swanson][sw], whom I should give my thanks!
 

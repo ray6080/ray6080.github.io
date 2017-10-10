@@ -1,6 +1,6 @@
 ---
 layout: post
-title: List of Well Written Articles
+title: List of Well Written Articles and Blogs
 skip_related: true
 ---
 
@@ -21,6 +21,14 @@ This is a list of well written articles on distributed system and deep learning.
 5. [Distribtued Systems][8]
    *MIT course on distributed system.*
 
+6. [How to use interfaces in Go][11]
+   *Talking about interfaces and pointers in Go*
+
+7. [Go Data Structures: Interfaces][12]
+   *Go interfaces design and implementation by Russ Cox*
+
+8. [Paxos System][13]
+   *A website explaining Paxos*
 ----
 
 ### Deep Learning
@@ -30,7 +38,14 @@ This is a list of well written articles on distributed system and deep learning.
 2. [A 'Brief' History of Neural Nets and Deep Learning][4]
 
 3. [A Beginner's Guide to Understanding Convolutional Neural Networks][6]
+----
 
+This is a blog list worthy to follow
+### Blog List
+1. [DBMS MUSINGS][9]
+   *Daniel Abadi's personal blog*
+2. [Mark Reinhold][10]
+   *Mark is the Chief Architect of the Java Platform Group at Oracle*
 
 [1]: https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
 [2]: https://dirtysalt.github.io/leveldb.html
@@ -40,3 +55,8 @@ This is a list of well written articles on distributed system and deep learning.
 [6]: https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/
 [7]: http://15721.courses.cs.cmu.edu/spring2016/
 [8]: https://pdos.csail.mit.edu/6.824/
+[9]: http://dbmsmusings.blogspot.com
+[10]: https://mreinhold.org/blog/
+[11]: http://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go
+[12]: https://research.swtch.com/interfaces
+[13]: http://paxos.systems

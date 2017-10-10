@@ -45,7 +45,7 @@ pgxl@node1:~ chmod 600 ~/.ssh/authorized_keys
 Lastly, for each remote node(`node2`~`node7`), execute command like
 
 ```shell
-pgxl@node1:~ scp -p ~/.ssh/authorized_keys pgxl@node2:~/.ssh/
+pgxl@node1:~ ssh-copy-id pgxl@node2
 ```
 
 After this, you should be able to login to other hosts from `pgxl@node1` without password.
