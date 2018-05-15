@@ -6,19 +6,17 @@ skip_related: true
 
 Hi. I'm Guodong Jin.
 
-I'm a PhD candidate at [RUC](http://www.ruc.edu.cn/en) in China. I enjoy designing and building distributed storage and computing systems.
+I'm a PhD candidate at [RUC](http://www.ruc.edu.cn/en) in China. My research interests focus on optimizing big data management and analytical systems.
 
-I'm happiest working with Java :smile. And I can code in Scala, C++(C included), besides, Python and PHP are less familiar ones. I'm interested in different programming languages, because I can always find some 'good' features that I hate badly.
+I'm happiest working with Java :smile. And I can code in Golang, Scala and C. I enjoy playing with different programming languages to find interesting features behind.
 
-Except for coding, I read a lot. Mostly I read about history recently. And I'd like to share some of my thoughts here in my blog.
-
-Also, I like traveling around to relax myself, but, I hate photography!
+Except for coding, I read a lot. And I'd like to share some of my thoughts here in my blog.
 
 Besides, I like playing video games. [RimWorld][rim] and [Civilization][civ] are my favourites.
 
 ---
 
-I'm always learning and trying to improve my craft: well designed interface, clean and readable code, good documentation. Currently, I'm learning from some popular open source projects( yeah, I know there are disputes ). I'm passionate about reading source code , and sometime I get lost in the massive cities consisting of codes.
+I'm always learning and improving my craft skills: well designed interface, clean and readable code, good documentation.
 
 ---
 
