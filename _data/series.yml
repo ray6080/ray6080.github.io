@@ -1,12 +1,7 @@
-- name: System Musings
+- name: Musings
   desc: |
-    Musings on system designs &amp; implementations 
+    Musings on designs &amp; implementations 
   tag_name: system
-
-- name: Algorithms
-  desc: |
-    An algorithm must be seen to be believed 
-  tag_name: algorithm
 
 - name: Random
   desc: |
