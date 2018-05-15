@@ -38,6 +38,7 @@ This is a list of well written articles on distributed system and deep learning.
 2. [A 'Brief' History of Neural Nets and Deep Learning][4]
 
 3. [A Beginner's Guide to Understanding Convolutional Neural Networks][6]
+
 ----
 
 This is a blog list worthy to follow
