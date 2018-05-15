@@ -10,5 +10,5 @@
 
 - name: Random
   desc: |
-    Randomized thoughts collection
+    Random.next()
   tag_name: random
