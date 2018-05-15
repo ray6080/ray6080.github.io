@@ -1,8 +1,11 @@
 ---
 layout: post  
-title: Install Postgres-XL on a cluster  
-category: prog  
-tag: PG-XL
+title: Install Postgres-XL on a cluster
+comments: true  
+categories:
+- blog
+tags:
+- system
 ---
 
 Here is a short memo of installing [postgres-xl](http://www.postgres-xl.org) on a cluster.
