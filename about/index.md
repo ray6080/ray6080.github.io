@@ -26,10 +26,10 @@ You can reach me at [`guod.jin@gmail.com`][email] or [`@ray6080`][twitter].
 
 This blog is [open source][os] - and forked from [swanson][sw], whom I should give my thanks!
 
+[email]: mailto:guod.jin@gmail.com
+[twitter]: https://twitter.com/ray6080
 [os]: https://github.com/ray6080/ray6080.github.io
-[email]: mailto:jelly.guodong.jin@gmail.com
-[twitter]: https://www.linkedin.com/in/jellyking/
-[sw]: https://twitter.com/ray6080
+[sw]: https://github.com/swanson/swanson.github.com
 [rim]: http://store.steampowered.com/app/294100/
 [civ]: http://store.steampowered.com/app/8930/
 
