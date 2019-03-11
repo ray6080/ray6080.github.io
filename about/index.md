@@ -16,6 +16,8 @@ Besides daily researches, I enjoy coding and playing with open source projects.
 
 Moreover, I'm the founder and co-organizer of <a href="https://dbiir.github.io/meetup">DBIIR Weekly Meetup</a>.
 
+<hr/>
+
 ## RESEARCH AGENDA
 
 The challenge of Big Data has shifted the design of data analytical systems from single machines to large-scale distributed systems.
@@ -24,6 +26,8 @@ My research focuses on key techniques of big data analytics to improve the perfo
 Nowadays, many big data analysis systems share HDFS (Hadoop Distributed File System) as their common underlying storage, and relational tables are stored as columnar files to speed up query executions. The physical layouts of columnar files play a fundamental and critical role in system I/O performance, which is critical to the performance of existing analytical systems on HDFS. My current work investigates how to optimize physical layouts of columnar files adaptive to various workloads and storage devices.
 
 In the future, I plan to continue my research in the field of big data analytics, with a foucus on building analytical systems to support cross-model storage and computation integrating big relational tables and large dynamic graphs, and exploit potential benefits of emerging new hardwares (such as NVM, GPU and FPGA). In my dissertation work, I hope to build an open source analytical system which is optimized efficiently and ready to be used.
+
+<hr/>
 
 ## PUBLICATIONS
 
@@ -43,6 +47,8 @@ In the future, I plan to continue my research in the field of big data analytics
 <small>Xiongpai QIN, <b>Guodong JIN</b>, Yang LIU, Yiming CONG, Xiaoyong DU.</small>
 <small><a href="http://github.com/dbiir/paraflow">[code]</a></small>
 
+<hr/>
+
 ## PROJECTS
 
 <li><a href="#">Pixels</a>. A flexible column storage format with adaptive optimization techniques embedded.</li>
@@ -53,6 +59,8 @@ In the future, I plan to continue my research in the field of big data analytics
 <small>This project is under active development.</small>
 <li><a href="#">Claims</a>. A distributed in-memory database system, which I was involved during my internship at InfoSys Bangalore.</li>
 
+<hr/>
+
 ## SKILLS
 
 <li>Good understandings of Java as a system developing language.</li>
@@ -62,12 +70,16 @@ In the future, I plan to continue my research in the field of big data analytics
 <li>Good team work spirit and considerable system design experiences.</li>
 You can reach me at [`guod.jin@gmail.com`][email] or [`@ray6080`][twitter].
 
+<hr/>
+
 ## TA
 
 <li>Principles and Design of Database System (for graduate students). 2017.09 - 2018.01</li>
 <small>A hard-core course on the principles of database systems for graduate students. During the course, each group of students is requried to implement a toy DBMS.</small>
 <li>The Practice of Programming (for undergraduate students). 2016.09 - 2017.01</li>
 <small>A startup course for undergraduate students to learn about programming languages and practice them! Javascript and PHP are covered.</small>
+
+<hr/>
 
 ## NEWS
 
@@ -88,10 +100,10 @@ You can reach me at [`guod.jin@gmail.com`][email] or [`@ray6080`][twitter].
 
 This blog is [open source][os] - and forked from [swanson][sw], whom I should give my thanks!
 
+
 [email]: mailto:guod.jin@gmail.com
 [twitter]: https://twitter.com/ray6080
 [os]: https://github.com/ray6080/ray6080.github.io
 [sw]: https://github.com/swanson/swanson.github.com
 [rim]: http://store.steampowered.com/app/294100/
 [civ]: http://store.steampowered.com/app/8930/
-
