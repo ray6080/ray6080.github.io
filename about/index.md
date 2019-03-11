@@ -52,11 +52,9 @@ In the future, I plan to continue my research in the field of big data analytics
 ## PROJECTS
 
 <li><a href="#">Pixels</a>. A flexible column storage format with adaptive optimization techniques embedded.</li>
-<small>This project will open source soon.</small>
 <li><a href="https://github.com/dbiir/rainbow">Rainbow</a>. A data layout optimization framework for wide tables stored on HDFS.</li>
 <li><a href="https://github.com/dbiir/paraflow">Paraflow</a>. A real-time analytical system for ID-associated data.</li>
 <li><a href="https://github.com/dbiir/pard">Pard</a>. A parallel database running like a leopard. This is a course project of <a href="https://github.com/fanju1984/ddb/tree/master/Fall%202017">Distributed Database Systems</a>.</li>
-<small>This project is under active development.</small>
 <li><a href="#">Claims</a>. A distributed in-memory database system, which I was involved during my internship at InfoSys Bangalore.</li>
 
 <hr/>
@@ -68,7 +66,6 @@ In the future, I plan to continue my research in the field of big data analytics
 <li>Good communication skills both in English (TOEFL 103) and Mandarin Chinese.</li>
 <li>Good at cooking, still improving.</li>
 <li>Good team work spirit and considerable system design experiences.</li>
-You can reach me at [`guod.jin@gmail.com`][email] or [`@ray6080`][twitter].
 
 <hr/>
 
@@ -96,10 +93,11 @@ You can reach me at [`guod.jin@gmail.com`][email] or [`@ray6080`][twitter].
 <li>Dec 2016: I'm joining <a href="https://www.infosys.com/instep/default.asp">InfoStep</a> (at Bangalore, India), an internship program hosted by <i>InfoSys</i>, to develop the distributed in-memory database system (called Claims). Three months in India!</li>
 <li>Aug 2016: We got a seventeen position in the second round of<a href="https://tianchi.shuju.aliyun.com/programming/introduction.htm?spm=5176.100066.333.3.Qtkjcf&raceId=231533"> Midleware Development Performance Challenge</a> hosted by<i>  Alibaba Group</i>.</li>
 <small>The contest requires to develop a system from scratch (without any other library dependencies except for JDK) to load and support queries over 100GB relational dataset as efficiently as possible on a single cheap server with only 4GB memroy. And Java is the only choice as the programming language.</small>
-<li>Aug 2016: I'm attending <a href="https://strata.oreilly.com.cn/hadoop-big-data-cn?locale=en">Strata+Hadoop World Beijing</a>. Excited to meet Doug Cutting, and learn about excellent open source projects.
+<li>Aug 2016: I'm attending <a href="https://strata.oreilly.com.cn/hadoop-big-data-cn?locale=en">Strata+Hadoop World Beijing</a>. Excited to meet Doug Cutting, and learn about excellent open source projects.</li>
 
 This blog is [open source][os] - and forked from [swanson][sw], whom I should give my thanks!
 
+You can reach me at [`guod.jin@gmail.com`][email] or [`@ray6080`][twitter].
 
 [email]: mailto:guod.jin@gmail.com
 [twitter]: https://twitter.com/ray6080
