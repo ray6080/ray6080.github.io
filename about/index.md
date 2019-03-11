@@ -33,15 +33,15 @@ In the future, I plan to continue my research in the field of big data analytics
 
 <li>Towards Real-Time Analysis of ID-Associated Data. <i>International Conference on Conceptual Modeling (Demonstration Track), Oct 2018.</i></li>
 <small><b>Guodong JIN</b>, Yixuan Wang, Xiongpai QIN, Yueguo CHEN, Xiaoyong DU.</small>
-<small><a href="./paper/paraflow-er-2018.pdf">[paper] </a><a href="./paper/paraflow-er-poster.pdf">[poster]</a></small>
+<small><a href="/paper/paraflow-er-2018.pdf">[paper] </a><a href="/paper/paraflow-er-poster.pdf">[poster]</a></small>
 
 <li>Rainbow: Adaptive Layout Optimization for Wide Tables. <i>IICDE, International Conference on Data Engineering (Demonstrantion Track), Apr 2018.</i></li>
 <small>Haoqiong BIAN, Youxian TAO, <b>Guodong JIN</b>, Yueguo CHEN, Xiongpai QIN, Xiaoyong DU.</small>
-<small><a href="./paper/rainbow-icde-2018.pdf">[paper] </a><a href="./paper/rainbow-icde-poster.pdf">[poster]</a> <a href="http://github.com/dbiir/rainbow">[code]</a></small>
+<small><a href="/paper/rainbow-icde-2018.pdf">[paper] </a><a href="/paper/rainbow-icde-poster.pdf">[poster]</a> <a href="http://github.com/dbiir/rainbow">[code]</a></small>
 
 <li>Entity Fiber based Partitioning, No Loss Staging and Fast Loading of Log Data. <i>PDCAT, Parallel and Distributed Computing, Applications and Technologies, Dec 2016.</i></li>
 <small>Xiongpai QIN, Yueguo CHEN, <b>Guodong JIN</b>, Yang LIU, Yiming CONG, Xiaoyong DU.</small>
-<small><a href="./paper/paraflow-pdcat-2016.pdf">[paper]</a> <a href="http://github.com/dbiir/paraflow">[code]</a></small>
+<small><a href="/paper/paraflow-pdcat-2016.pdf">[paper]</a> <a href="http://github.com/dbiir/paraflow">[code]</a></small>
 
 <li>No Loss Staging and Fast Loading of Log Data (Written in Chinese).  <i>NDBC'16 Demo</i></li>
 <small>Xiongpai QIN, <b>Guodong JIN</b>, Yang LIU, Yiming CONG, Xiaoyong DU.</small>
@@ -84,9 +84,9 @@ In the future, I plan to continue my research in the field of big data analytics
 <li>Nov 2018: <a href="https://dbiir.github.io/meetup/meetup/2018/11/15/weekly-meetup.html">Weekly Meetup 2</a> is ON! <a href="http://iir.ruc.edu.cn/~yangjr/">Jingru Yang</a> gave an excellent talk on her newly accepted VLDB paper!</li>
 <li>Nov 2018: <a href="https://dbiir.github.io/meetup/meetup/2018/11/08/weekly-meetup.html">Weekly Meetup 1</a> is ON! Great talk by <a href="http://iir.ruc.edu.cn/~chenj/index.html">Jun Chen</a>, sharing lots of researching experience with us.</li>
 <li>Nov 2018: Our first <a href="https://dbiir.github.io/meetup/meetup/2018/11/01/weekly-meetup.html">meetup</a> is organized successfully. Thanks to our organizing commitee members!</li>
-<li>Oct 2018: I'm demonstrating <a href="./paper/paraflow-er-2018.pdf">Towards Real-Time Analysis of ID-Associated Data</a> at ER 2018 (Xi'an, China).</li>
+<li>Oct 2018: I'm demonstrating <a href="/paper/paraflow-er-2018.pdf">Towards Real-Time Analysis of ID-Associated Data</a> at ER 2018 (Xi'an, China).</li>
 <li>Oct 2018: Excited to attend <a href="http://ndbc2018.dlmu.edu.cn">NDBC'2018</a> at Dalian.</li>
-<li>Apr 2018: I'm demonstrating <a href="./paper/rainbow-icde-2018.pdf">Rainbow: Adaptive Layout Optimization for Wide Tables</a> at ICDE 2018 (Paris France).</li>
+<li>Apr 2018: I'm demonstrating <a href="/paper/rainbow-icde-2018.pdf">Rainbow: Adaptive Layout Optimization for Wide Tables</a> at ICDE 2018 (Paris France).</li>
 <li>Sep 2017: I'm TA'ing the <i>Principles and Design of Database System</i> (for graduate students). Working hard!</li>
 <li>Jul 2017: We started a new project called <i>Pixels</i>.</li>
 <li>Jul 2017: Attending <a href="https://strata.oreilly.com.cn/strata-cn?locale=en">Strata Beijing 2017</a>. Happy to meet new friends!</li>
