@@ -11,5 +11,7 @@ The following directories and their contents are Copyright Guodong Jin. You may 
 * _posts/
 * talks/
 * static/
+* cv/
+* paper/
 
 All other directories and files are MIT Licensed.
