@@ -1,63 +1,15 @@
 ---
 layout: post
-title: List of Well Written Articles and Blogs
+title: Daily Paper
 skip_related: true
 ---
 
-This is a list of well written articles on distributed system and deep learning.
+highlight important/interesting papers from published ones related to the database system every day.
 
-### Distributed System
-1. [The Log][1] @LinkedIn @2013
+### Mar 27, 2019
 
-2. [leveldb][2]    
-   *A series of blogs analysing source code of leveldb, written in Chinese.*
+**Everything You Always Wanted to Know About Compiled and Vectorized Queries But Were Afraid to Ask**  
+T. Kersten, V. Leis, A. Kemper, T. Neumann, A. Pavlo, P. Boncz. PVLDB, 11 (13): 2209 - 2222, 2018.  
+http://www.vldb.org/pvldb/vol11/p2209-kersten.pdf  
 
-3. [System Design Primer][3]    
-   *Introduce must know concepts involving in large system design.*
-
-4. [Advanced Database System][7]    
-   *CMU course on database system.*
-
-5. [Distribtued Systems][8]
-   *MIT course on distributed system.*
-
-6. [How to use interfaces in Go][11]
-   *Talking about interfaces and pointers in Go*
-
-7. [Go Data Structures: Interfaces][12]
-   *Go interfaces design and implementation by Russ Cox*
-
-8. [Paxos System][13]
-   *A website explaining Paxos*
-----
-
-### Deep Learning
-1. [Hacker's guide to Neural Networks][5]    
-   *Written by Andrej Karpathy, explaining neural network as hacker's perspective.*
-
-2. [A 'Brief' History of Neural Nets and Deep Learning][4]
-
-3. [A Beginner's Guide to Understanding Convolutional Neural Networks][6]
-
-----
-
-This is a blog list worthy to follow
-### Blog List
-1. [DBMS MUSINGS][9]
-   *Daniel Abadi's personal blog*
-2. [Mark Reinhold][10]
-   *Mark is the Chief Architect of the Java Platform Group at Oracle*
-
-[1]: https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
-[2]: https://dirtysalt.github.io/leveldb.html
-[3]: https://github.com/donnemartin/system-design-primer
-[4]: http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/
-[5]: http://karpathy.github.io/neuralnets/
-[6]: https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/
-[7]: http://15721.courses.cs.cmu.edu/spring2016/
-[8]: https://pdos.csail.mit.edu/6.824/
-[9]: http://dbmsmusings.blogspot.com
-[10]: https://mreinhold.org/blog/
-[11]: http://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go
-[12]: https://research.swtch.com/interfaces
-[13]: http://paxos.systems
+Vectorization and data-centric code generation are two state-of-the-art query processing paradigms prevelant in modern database systems. Vectorization is pioneered by VectorWise, and data-centric code generation is explored by Hyper. Though these two paradigms are widely used and fundamentally different, it is not clear which paradigm yeilds faster query execution until today. This paper experimentally compares these two models by implementing both within the same test system, and find that both models are efficient with different strengths and weaknesses.
