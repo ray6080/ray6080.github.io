@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RobinHood: Tail Latency-Aware Caching - Dynamically Reallocating from Cache-Rich to Cache-Poor"
+title: "RobinHood: Tail Latency-Aware Caching"
 comments: true
 categories:
 - blog
