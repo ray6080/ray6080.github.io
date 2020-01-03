@@ -7,9 +7,8 @@ title: personal website and blog of Guodong Jin
 
 <div id="series">
   {% for series in site.data.series %}
-    <h3 id="{{ series.tag_name }}">{{ series.name }}</h3>
-    <p>{{ series.desc }}</p>
-
+<!--     <h3 id="{{ series.tag_name }}">{{ series.name }}</h3>
+    <p>{{ series.desc }}</p> -->
     <ul>
       {% for post in site.tags[series.tag_name] %}
         <li {% if post.favorite %}class="favorite"{% endif %}>
