@@ -1,9 +1,4 @@
 - name: Musings
   desc: |
-    Musings on designs &amp; implementations 
+    Thoughts &amp; Ideas 
   tag_name: system
-
-- name: Random
-  desc: |
-    Random.next()
-  tag_name: random

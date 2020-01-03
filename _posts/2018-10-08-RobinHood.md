@@ -1,14 +1,14 @@
 ---
-layout: writeup
-title: RobinHood
-full_title: "RobinHood: Tail Latency-Aware Caching - Dynamically Reallocating from Cache-Rich to Cache-Poor"
-author: Daniel S.Berger and Benjamin Berg, CMU; Timothy Zhu, Pennsylvania State University; Mor Harchol-Balter, CMU; and Siddhartha Sen, Microsoft Research
-link: https://www.usenix.org/conference/osdi18/presentation/berger
-publication: OSDI'18
+layout: post
+title: "RobinHood: Tail Latency-Aware Caching - Dynamically Reallocating from Cache-Rich to Cache-Poor"
 comments: true
 categories:
-- writeup
+- blog
+tags:
+- system
 ---
+
+[RobinHood: Tail Latency-Aware Caching - Dynamically Reallocating from Cache-Rich to Cache-Poor, OSDI'18](https://www.usenix.org/conference/osdi18/presentation/berger)
 
 This paper is published on OSDI'18, and authors are from CMU, Pennsylvania State University, and Microsoft Research.
 The paper studies request tail latency in web services and are claimed to be the first caching system that minimizes the request tail latency. Through its novel solution, dynamically reallocate cache resources from the cache-rich to the cache-poor, it meets a 150ms P99 goal 99.7% of the time in the presence of load spikes under the testbed of Microsoft's OneRF production system.
