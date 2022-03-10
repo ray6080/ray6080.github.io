@@ -41,12 +41,12 @@ Haoqiong Bian, Youxian Tao, <b>Guodong Jin</b>, Yueguo Chen, Xiongpai Qin, Xiaoy
 <small>A hard-core course on the principles of database systems for graduate students. During the course, each group of students is requried to implement a toy DBMS.</small>
 <li>The Practice of Programming (for undergraduate students). 2016.09 - 2017.01</li>
 <small>A startup course for undergraduate students to learn about programming languages and practice them! Javascript and PHP are covered.</small>
- -->
 <hr/>
+ -->
 
 You can reach me at [`guod.jin@gmail.com`][email].
 
-This blog is [open source][os] - and forked from [swanson][sw], whom I should give my thanks!
+<small>This blog is [open source][os] - and forked from [swanson][sw], whom I should give my thanks!</small>
 
 [email]: mailto:guod.jin@gmail.com
 [twitter]: https://twitter.com/ray6080
