@@ -1,9 +1,9 @@
-- year: 2018
+- year: 2019
   projects:
-    - name: Pard
-      url: https://github.com/ray6080/pard
+    - name: GRainDB
+      url: https://github.com/graindb/graindb
       blurb: >
-        Parallel Database Running like a Leopard
+        Graph-Relational DBMS
 
 - year: 2017
   projects:
