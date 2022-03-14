@@ -29,7 +29,7 @@ Specifically, I work on extending RDBMSs to support hybrid graph-relational quer
 <b>Guodong Jin</b>, Haoqiong Bian, Yueguo Chen, Xiaoyong Du.
 <a href="/paper/pixels-edbt.pdf">[paper] </a><a href="https://github.com/pixelsdb/pixels">[code]</a>
 
-<li>Rainbow: Adaptive Layout Optimization for Wide Tables. <i>IICDE, International Conference on Data Engineering (Demonstrantion Track), Apr 2018.</i></li>
+<li>Rainbow: Adaptive Layout Optimization for Wide Tables. <i>ICDE, International Conference on Data Engineering (Demonstrantion Track), Apr 2018.</i></li>
 Haoqiong Bian, Youxian Tao, <b>Guodong Jin</b>, Yueguo Chen, Xiongpai Qin, Xiaoyong Du.
 <a href="/paper/rainbow-icde-2018.pdf">[paper] </a><a href="/paper/rainbow-icde-poster.pdf">[poster]</a> <a href="https://github.com/dbiir/rainbow">[code]</a>
 
