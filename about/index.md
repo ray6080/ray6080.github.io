@@ -8,7 +8,7 @@ Hi. I'm Guodong Jin.
 
 ## BIO
 
-I am a Ph.D. candidate at the <a href="http://iir.ruc.edu.cn">DBIIR Lab</a>, <a href="http://www.ruc.edu.cn">Renmin University of China (RUC)</a>, supervised by <a href="">Prof. Yueguo Chen</a>.
+I am a Ph.D. candidate at the <a href="http://iir.ruc.edu.cn">DBIIR Lab</a>, <a href="http://www.ruc.edu.cn">Renmin University of China (RUC)</a>, supervised by <a href="http://iir.ruc.edu.cn/~ygchen/">Prof. Yueguo Chen</a>.
 I visited <a href="https://cs.uwaterloo.ca/~ssalihog/">Prof. Semih Salihoglu</a> at the University of Waterloo in the last two years.
 
 My research focuses on query processing and storage optimization of analytical data management systems. 
