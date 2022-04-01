@@ -27,7 +27,7 @@ Specifically, I work on extending RDBMSs to support hybrid graph-relational quer
 
 <li>Storage-layout Optimization and Columnar Caching for Data Lakes. <i>EDBT 2022.</i></li>
 <b>Guodong Jin</b>, Haoqiong Bian, Yueguo Chen, Xiaoyong Du.
-<a href="/paper/pixels-edbt.pdf">[paper] </a><a href="https://github.com/pixelsdb/pixels">[code]</a>
+<a href="/paper/pixels-edbt.pdf">[paper] </a><a href="https://github.com/pixelsdb/pixels">[code]</a> <a href="https://www.youtube.com/watch?v=5RzrNFl0B-c">[talk]</a>
 
 <li>Rainbow: Adaptive Layout Optimization for Wide Tables. <i>ICDE, International Conference on Data Engineering (Demonstrantion Track), Apr 2018.</i></li>
 Haoqiong Bian, Youxian Tao, <b>Guodong Jin</b>, Yueguo Chen, Xiongpai Qin, Xiaoyong Du.
