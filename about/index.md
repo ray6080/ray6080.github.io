@@ -8,12 +8,13 @@ Hi. I'm Guodong Jin.
 
 ## BIO
 
-I am a Ph.D. candidate at the <a href="http://iir.ruc.edu.cn">DBIIR Lab</a>, <a href="http://www.ruc.edu.cn">Renmin University of China (RUC)</a>, supervised by <a href="http://iir.ruc.edu.cn/~ygchen/">Prof. Yueguo Chen</a>.
-I visited <a href="https://cs.uwaterloo.ca/~ssalihog/">Prof. Semih Salihoglu</a> at the University of Waterloo in the last two years.
+Currently, I am a Post-doctoral Fellow at the <a href="https://dsg.uwaterloo.ca">Data Systems Group (DSG)</a>, <a href="https://uwaterloo.ca">University of Waterloo</a>.
+I work with <a href="https://cs.uwaterloo.ca/~ssalihog/">Prof. Semih Salihoglu</a> on graph database management systems.
+Broadly, my research interests focus on query processing and storage optimization of analytical data systems.
 
-My research focuses on query processing and storage optimization of analytical data management systems. 
-Specifically, I work on extending RDBMSs to support hybrid graph-relational querying (<a href="https://github.com/graindb/graindb">GRainDB</a>), developing a new graph database system (<a href="http://graphflow.io">GraphflowDB</a>), and investigating columnar caching and storage-layout optimization in data lakes (<a href="https://github.com/pixelsdb/pixels">Pixels</a>).
-
+I did my Ph.D. at Renmin University of China, and visited the <a href="https://dsg.uwaterloo.ca">DSG</a> during the last two years of my Ph.D.
+My thesis topic is query optimizations in graph-relational databases, which is based on my research project <a href="https://graindb.github.io">GRainDB</a>, the project aims to extend RDBMSs to support graph queries.
+Other actively involved research projects during my Ph.D. period are <a href="http://graphflow.io">GraphflowDB</a>, and <a href="https://github.com/pixelsdb/pixels">Pixels</a>.
 <hr/>
 
 ## SELECTED PUBLICATIONS
