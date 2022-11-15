@@ -4,11 +4,11 @@ title: About
 skip_related: true
 ---
 
-Hi. I'm Guodong Jin.
+Hi. I'm Guodong Jin. I work on [Kùzu](https://kuzudb.com), which is an in-process property graph database management system (GDBMS) built for query speed and scalability at the University of Waterloo.
 
 ## BIO
 
-Currently, I am a Post-doctoral Fellow at the <a href="https://dsg.uwaterloo.ca">Data Systems Group (DSG)</a>, <a href="https://uwaterloo.ca">University of Waterloo</a>.
+Besides, I am a Post-doctoral Fellow at the <a href="https://dsg.uwaterloo.ca">Data Systems Group (DSG)</a>, <a href="https://uwaterloo.ca">University of Waterloo</a>.
 I work with <a href="https://cs.uwaterloo.ca/~ssalihog/">Prof. Semih Salihoglu</a> on graph database management systems.
 Broadly, my research interests focus on query processing and storage optimization of analytical data systems.
 
