@@ -18,6 +18,10 @@ Other actively involved research projects during my Ph.D. period are <a href="ht
 <hr/>
 
 ## SELECTED PUBLICATIONS
+<li>KÙZU Graph Database Management System. <i>CIDR 2023.</i></li>
+Xiyang Feng, <b>Guodong Jin</b>, Ziyi Chen, Chang Liu, Semih Salihoglu.
+<a href="https://www.cidrdb.org/cidr2023/papers/p48-jin.pdf">[paper] </a> <a href="https://githb.com/kuzudb/kuzu">[code]</a>
+
 <li>Making RDBMSs Efficient on Graph Workloads Through Predefined Joins. <i>VLDB 2022.</i></li>
 <b>Guodong Jin</b>, Semih Salihoglu.
 <a href="/paper/graindb-vldb.pdf">[paper] </a><a href="https://github.com/graindb/graindb">[code]</a>
