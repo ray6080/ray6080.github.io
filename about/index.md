@@ -4,7 +4,7 @@ title: About
 skip_related: true
 ---
 
-Hi. I'm Guodong Jin. I work on [Kùzu](https://kuzudb.com), which is an in-process property graph database management system (GDBMS) built for query speed and scalability at the University of Waterloo.
+Hi. I'm Guodong Jin. I work on [Kùzu](https://kuzudb.com), which is an in-process property graph database management system (GDBMS) built for query speed and scalability.
 
 ## BIO
 
